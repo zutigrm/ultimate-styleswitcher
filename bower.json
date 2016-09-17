@@ -1,0 +1,24 @@
+{
+  "name": "Ultimate Styleswitcher",
+  "version": "1.0.0",
+  "homepage": "http://themeflection.com/",
+  "license": "GPL2",
+  "main": [
+    "dist/js/styleswitcher.min.js",
+    "dist/js/library.min.js",
+    "dist/css/styleswitcher.min.js",
+  ],
+  "keywords": [
+    "style switch",
+    "style switcher",
+    "styleswitcher",
+    "skin switch"
+  ],
+  "ignore": [
+    "**/.*",
+    "*.md"
+  ],
+  "dependencies": {
+    "jquery": ">=1.9"
+  }
+}
